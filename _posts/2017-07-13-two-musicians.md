@@ -19,7 +19,7 @@ share: true
 
 > 알고 있다. 창작자가 열심히 하는 것 만으로는 좋은 결과물을 보장받을 수 없다는 걸. 하지만 열심 이상의 무언가를 담는다면 어떨까. 그 이상의 간절함과 그 이상의 열망과 그 이상의 책임감을 담는다면.
 >
-> 출처 : http://m.blog.naver.com/blueboy_kr/221017732377
+> 출처 : [http://blog.naver.com/blueboy_kr/221017732377](http://blog.naver.com/blueboy_kr/221017732377)
 
 노력 이상의 간절함과 열망이 담긴 작품.
 
