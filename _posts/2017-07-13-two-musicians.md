@@ -7,7 +7,7 @@ comments: true
 share: true
 ---
 
-> 2017년 6월 5일 다른 곳에 쓴 글을 옮겨왔습니다.
+**2017년 6월 5일 다른 곳에 쓴 글을 옮겨왔습니다.**
 
 ![언니네이발관6](/images/2017-07-13-two-musicians-image1.png)
 
