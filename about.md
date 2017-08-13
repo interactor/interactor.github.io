@@ -5,8 +5,9 @@ permalink: /about/
 
 - Jiho Choi
 - Interaction Designer / Product Manager
-  - Interaction Design
+  - Concept and Story Making
   - User Research / Market Research
+  - Interaction Design
   - Prototyping
 - Naver corp.
 - Whale browser
