@@ -9,7 +9,7 @@ share: true
 
 > 2017년 6월 5일 다른 곳에 쓴 글을 옮겨왔습니다.
 
-![언니네이발관6](images/2017-07-13-two-musicians-image1.png)
+![언니네이발관6](/images/2017-07-13-two-musicians-image1.png)
 
 언니네 이발관의 마지막 앨범이 나왔다. 9년만이다.
 
@@ -25,7 +25,7 @@ share: true
 
 ---
 
-![WeAreX](images/2017-07-13-two-musicians-image2.png)
+![WeAreX](/images/2017-07-13-two-musicians-image2.jpg)
 
 X-Japan과 요시키의 일대기를 다룬 다큐멘터리, “We are X”가 개봉했다.
 
