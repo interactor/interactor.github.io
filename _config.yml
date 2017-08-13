@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Jiho Blog"
+name:               "Interactor Blog"
 
 author:
   facebook:         interactor
@@ -28,7 +28,7 @@ copyright:
 
 # Google-analytics
 google-analytics:
-  id:               ""
+  id:               "UA-104530941-1"
 
 # Disqus
 disqus:
