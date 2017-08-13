@@ -2,7 +2,7 @@
 layout: post
 title: "블로그 시작"
 # description: "블로그 시작"
-date: 2017-07-13
+date: 2017-08-13
 comments: true
 share: true
 ---
