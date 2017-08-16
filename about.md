@@ -13,6 +13,7 @@ permalink: /about/
 - Naver corp. (2015- )
   - [Whale browser](http://whale.naver.com)
     - Product management team lead
+  - Naver Labs
 - LG Electronics (2011-2015)
   - [Acanvas](http://www.acanvas.com/)
-  - LSR/UX Research Lab
+  - LSR/UX Research Lab.
